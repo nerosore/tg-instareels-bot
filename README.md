@@ -1,8 +1,10 @@
 # tg-instareels-bot
-Telegram bot that downloads video from Instagram reel link and replies with that video to user
+Telegram bot that downloads video from Instagram reel link and replies with that video to user.
 
-This bot will download instagram reel to your machine and send it via bot to user
+This bot will download instagram reel to your machine and send it via bot to user.
+It uses Selenium for imitating visiting instagram reels section and searching video file in html file.
 
+Usage:
 1. Install Python
 2. Install following libs: python-telegram-bot, selenium, requests
 3. Download main.py
